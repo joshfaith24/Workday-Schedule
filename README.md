@@ -33,3 +33,4 @@ order to stay more organized.
 
 ## Resource Links
 https://github.com/joshfaith24/Workday-Schedule
+https://joshfaith24.github.io/Workday-Schedule/
