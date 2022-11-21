@@ -30,3 +30,6 @@ the day is extremely beneficial and efficient. There were a couple bumps in the 
 uploading the Day.Js but eventually all the bugs were fixed and the code should run effectively. 
 Each user should be able to see each event they saved and what the current date and time is, in 
 order to stay more organized.
+
+## Resource Links
+https://github.com/joshfaith24/Workday-Schedule
