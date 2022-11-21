@@ -34,3 +34,5 @@ order to stay more organized.
 ## Resource Links
 https://github.com/joshfaith24/Workday-Schedule
 https://joshfaith24.github.io/Workday-Schedule/
+![Image 11-21-22 at 3 34 PM](https://user-images.githubusercontent.com/113576524/203153218-ad00c92c-7562-4ff4-808a-98612d465b92.jpg)
+![Image 11-21-22 at 3 34 PM (1)](https://user-images.githubusercontent.com/113576524/203153240-67ab1d88-fbdd-4b93-b272-4bfb360d32b8.jpg)
